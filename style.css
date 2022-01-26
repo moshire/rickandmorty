@@ -1,0 +1,40 @@
+.title{
+    text-align: left;
+    color: rgb(26, 136, 26);
+    font-family:   'Comforter', cursive;
+    font-size: 20px;
+    font-weight: 900;
+    border: solid rgba(20, 1, 1, 0.657) 2px;
+    padding-left: 9px;
+   }
+ 
+ 
+   .card{
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 900px;
+    height: 600px;
+    margin: auto;
+    
+    
+     
+ }
+ .header{
+     width: 100%;
+     text-align: center;
+     padding-top: 20px;
+     font-weight: bold;
+     
+ }
+ 
+ .input{
+     padding-left: 9px;
+     padding-top: 20px;
+     font-weight: bold;
+ }
+ .footer{
+     text-align: center;
+     padding-top: 40px;
+ }
+ 
+ 
+ 
